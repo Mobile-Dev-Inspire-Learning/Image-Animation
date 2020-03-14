@@ -1,2 +1,6 @@
 # Image-Animation
-image animation  java ->>  get image -- image click event --animation 
+# Waht I Learn  
+
+* get image
+* image click event 
+* animation 
